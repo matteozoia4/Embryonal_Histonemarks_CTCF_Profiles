@@ -1162,7 +1162,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 204,153,0 
+color 50,168,82 
 
 
 
